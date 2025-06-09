@@ -39,10 +39,3 @@
 | 🔹 JavaScript (ES6+) | DOM manipulation, array methods, timers |
 
 ---
-
-## 🚀 Getting Started
-
-### Clone the Repo
-
-```bash
-
