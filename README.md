@@ -13,7 +13,7 @@
 > ![Screenshot From 2025-06-09 19-47-11](https://github.com/user-attachments/assets/c03fc40c-f2e4-4b3a-8e8a-d6ac933b32b5)
 
 
-![Bankist Preview](https://bankistwo.netlify.app/)
+🔗 **Live Demo:** [https://bankistwo.netlify.app/](https://bankistwo.netlify.app/)
 
 ---
 
